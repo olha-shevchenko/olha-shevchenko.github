@@ -9,7 +9,8 @@
   contents:
     - title: Ph.D.
       year: 2026 (exp.)
-      title: M.A.
+      institution: University of California, Los Angeles (UCLA)
+    - title: M.A.
       year: 2022
       institution: University of California, Los Angeles (UCLA)
     - title: B.S.
@@ -19,11 +20,59 @@
 - title: Awards
   type: time_table
   contents:
-    - title: Stone Fellowship, UCLA
-      year: 2021 - 2022
-      description: 
-        - Awarded by University of California, Los Angeles to exceptional graduate students
     - title: Raymond Redheffer Prize
       year: 2024
       description:
         - Given to a teaching assistant who went above and beyond during their time teaching freshman calculus. 
+    - title: Stone Fellowship, UCLA
+      year: 2021 - 2022
+      description: 
+        - Awarded by University of California, Los Angeles to exceptional graduate students
+    - title: Scientific grant by the National Research Foundation of Ukraine
+      year: 2020-2021
+      description:
+        - Received the award as a member of an 8-person team
+    - title: Scholarship of President of Ukraine 
+      year: 2014-2018, 2020
+      description:
+        - Awarded by the President of Ukraine to talented students. Received 4 times
+    - title: Young Person of The Year 
+      year: 2017
+      description:
+        - Presented by the Kharkiv Administration in recognition of achievements with significant societal impact
+
+- title: Publications
+
+- title: Seminars and programs
+type: time_table
+contents:
+  - title: BMS Student conference
+    year: 2021
+    description:
+      - Presented a talk at the conference organized by Berlin Math School
+  - title: Undergraduate research project on Geometry in Banach Spaces
+    year: 2020-2021
+    description:
+      - Supervised by Vladimir Kadets
+      subdescription: 
+        - Studied Riemann integrability of set-valued maps
+        - Described conditions of integrability of a convex hull of a map
+    - title: Heidelberg Laureate Forum
+      year: 2020
+      description: 
+      - Participated in the international conference with laureates of the Abel prize, Fields Medal and others
+    - title: Inter-University Mathematics school SMI
+      year: 2020
+      place: Perugia, Italy
+      description:
+      - Participated in the summer school for graduate students, finishing the course in the top of the class
+      
+- title: Teaching experience
+    - title: Teaching assistant at UCLA
+      year: 2021-present
+    - title: Contest Math Tutoring
+      year: 2017-present
+      description:
+      - Prepares students for competitions up to International level
+  
+        
