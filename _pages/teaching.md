@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 ### Current teaching (Summer 2024):
-In this Summer Session A, I am teaching Math 135 {%[Math 135](https://bruinlearn.ucla.edu/courses/187884) %} (Ordinary Differential Equations). My office hours are on Monday and Wednesday from 11:30 am to 12:30 pm on Zoom. Please feel free to come with any questions or just stop by to say hi!
+In this Summer Session A, I am teaching Math 135 (Ordinary Differential Equations). My office hours are on Monday and Wednesday from 11:30 am to 12:30 pm on Zoom. Please feel free to come with any questions or just stop by to say hi!
 
   
 ### Past teaching:
