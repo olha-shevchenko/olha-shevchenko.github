@@ -2,11 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+### Current teaching (Summer 2024):
+- Math 135 (Ordinary Differential Equations)
+  
+### Past teaching:
+- Math 131B (Analysis)
+- Math 115A, 33A (Linear Algebra and Applications)
+- Math 61 (Discrete Mathematics)
+- Math 33B (Differential equations)
+- Math 32A, 32B (Multivariable Calculus)
+- Math 31A, 31B (Calculus)
