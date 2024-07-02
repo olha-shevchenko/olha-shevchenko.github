@@ -16,5 +16,28 @@
     - title: B.S.
       institution: V.N.Karazin Kharkiv National University
       year: 2021
+
+- title: Awards
+  type: time_table
+  contents:
+    - title: Raymond Redheffer Prize
+      year: 2024
+      description: Given to a teaching assistant who went above and beyond during their time teaching freshman calculus. 
+    - title: Stone Fellowship, UCLA
+      year: 2021 - 2022
+      description: 
+        - Awarded by University of California, Los Angeles to exceptional graduate students
+    - title: Scientific grant by the National Research Foundation of Ukraine
+      year: 2020-2021
+      description:
+        - Received the award as a member of an 8-person team
+    - title: Scholarship of President of Ukraine 
+      year: 2014-2018, 2020
+      description:
+        - Awarded by the President of Ukraine to talented students. Received 4 times
+    - title: Young Person of The Year 
+      year: 2017
+      description:
+        - Presented by the Kharkiv Administration in recognition of achievements with significant societal impact
   
         
