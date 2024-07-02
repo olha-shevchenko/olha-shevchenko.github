@@ -41,15 +41,15 @@
         - Presented by the Kharkiv Administration in recognition of achievements with significant societal impact
 
 - title: Seminars and programs
-type: time_table
-contents:
-  - title: BMS Student conference
-    year: 2021
-    description:
-      - Presented a talk at the conference organized by Berlin Math School
-  - title: Undergraduate research project on Geometry in Banach Spaces
-    year: 2020-2021
-    description:
+  type: time_table
+  contents:
+    - title: BMS Student conference
+      year: 2021
+      description:
+        - Presented a talk at the conference organized by Berlin Math School
+    - title: Undergraduate research project on Geometry in Banach Spaces
+      year: 2020-2021
+      description:
       - Supervised by Vladimir Kadets
       subdescription: 
         - Studied Riemann integrability of set-valued maps
@@ -63,5 +63,13 @@ contents:
       place: Perugia, Italy
       description:
       - Participated in the summer school for graduate students, finishing the course in the top of the class
+
+- title: Teaching experience
+    - title: Teaching assistant at UCLA
+      year: 2021-present
+    - title: Contest Math Tutoring
+      year: 2017-present
+      description:
+      - Prepares students for competitions up to International level
   
         
