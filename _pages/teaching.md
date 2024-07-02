@@ -8,7 +8,8 @@ nav_order: 6
 ---
 
 ### Current teaching (Summer 2024):
-- Math 135 (Ordinary Differential Equations)
+In Summer Session A, I am teaching Math 135 (Ordinary Differential Equations). My office hours are on Monday and Wednesday from 11:30 am to 12:30 pm on Zoom. Please feel free to come with any question or just stop by to say hi!
+
   
 ### Past teaching:
 - Math 131B (Analysis)
