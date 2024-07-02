@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I am a third year math grad student at UCLA, where I work with [Pavel Galashin](https://www.math.ucla.edu/~galashin/). I am working in Algebraic Combinatorics, particularly in Total positivity.
+Hi! I am a third year math grad student at UCLA, where I work with [Pavel Galashin](https://www.math.ucla.edu/~galashin/). I am working in Algebraic Combinatorics, particularly in problems related to Total positivity.
 
 I graduated from V.N.Karazin Kharkiv National University, where I was advised by Vladimir Kadets.
 
